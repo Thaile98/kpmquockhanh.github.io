@@ -1,8 +1,8 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Quoc Khanh's CV
 ---
-# Isaac Newton
+# Lưu Quốc Khánh
 Physicist, Mathematician, Cambridge professor.
 
 <div id="webaddress">
