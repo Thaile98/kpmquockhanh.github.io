@@ -15,7 +15,7 @@ Programmer.
 
 Trainee at VNP.
 
-### Specialized in
+## Specialized in
 
 IT, Web programmer.
 
